@@ -1,0 +1,170 @@
+[
+  {
+    "Scale": "C",
+    "SKU_ID": "BLF-C-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes C Scale Premium",
+    "Length_mm": 27,
+    "Length_cm": 2.7,
+    "Width_mm": 19,
+    "Width_cm": 1.9,
+    "Height_mm": 19,
+    "Height_cm": 1.9,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "C#",
+    "SKU_ID": "BLF-C#-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes C# Scale Premium",
+    "Length_mm": 25,
+    "Length_cm": 2.5,
+    "Width_mm": 18,
+    "Width_cm": 1.8,
+    "Height_mm": 18,
+    "Height_cm": 1.8,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "D",
+    "SKU_ID": "BLF-D-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes D Scale Premium",
+    "Length_mm": 43,
+    "Length_cm": 4.3,
+    "Width_mm": 17,
+    "Width_cm": 1.7,
+    "Height_mm": 17,
+    "Height_cm": 1.7,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "D#",
+    "SKU_ID": "BLF-D#-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes D# Scale Premium",
+    "Length_mm": 42,
+    "Length_cm": 4.2,
+    "Width_mm": 16,
+    "Width_cm": 1.6,
+    "Height_mm": 16,
+    "Height_cm": 1.6,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "E",
+    "SKU_ID": "BLF-E-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes E Scale Premium",
+    "Length_mm": 38,
+    "Length_cm": 3.8,
+    "Width_mm": 16,
+    "Width_cm": 1.6,
+    "Height_mm": 16,
+    "Height_cm": 1.6,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "F",
+    "SKU_ID": "BLF-F-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes F Scale Premium",
+    "Length_mm": 37,
+    "Length_cm": 3.7,
+    "Width_mm": 15,
+    "Width_cm": 1.5,
+    "Height_mm": 15,
+    "Height_cm": 1.5,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "F#",
+    "SKU_ID": "BLF-F#-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes F# Scale Premium",
+    "Length_mm": 35,
+    "Length_cm": 3.5,
+    "Width_mm": 15,
+    "Width_cm": 1.5,
+    "Height_mm": 15,
+    "Height_cm": 1.5,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  },
+  {
+    "Scale": "B",
+    "SKU_ID": "BLF-B-SCALE-PREMIUM",
+    "Brand": "Balaji Flutes B Scale Premium",
+    "Length_mm": 26,
+    "Length_cm": 2.6,
+    "Width_mm": 12,
+    "Width_cm": 1.2,
+    "Height_mm": 12,
+    "Height_cm": 1.2,
+    "Weight_kg": 0.3,
+    "MRP_INR": 3000,
+    "Selling_Price_INR": 2300,
+    "Procurement_SLA_Day": 1,
+    "Stock": 600,
+    "HSN": "92059010aa",
+    "Manufacturer": {
+      "Name": "T. Damodar Swamy",
+      "Address": "Flat No. 102-A, Vijaya Sai Seva Residency, Plot No. 66-71, New Prashanth Nagar, Miyapur, Hyderabad - 500049, Telangana, India"
+    }
+  }
+]
